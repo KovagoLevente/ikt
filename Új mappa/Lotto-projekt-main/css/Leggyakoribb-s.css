@@ -1,0 +1,155 @@
+body{
+    width: 1000px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+.Továbbiopciók{
+    width: 300px;
+    float: left;
+    background-color: rgb(66, 66, 66);
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: wheat;
+}
+
+.képek p{
+    display: inline-block;
+}
+
+.képek img{
+    width: 80px;
+    float: left;
+    padding-top: 5px;
+    z-index: -1;
+}
+
+.tartalom{
+   float: right;
+   width: 60%;
+   margin-right: -7%;
+   margin-top: 5%;
+}
+
+.menü{
+    float: left;
+   
+}
+
+table td{
+    border-bottom: solid 1px rgb(48, 48, 48);
+    height: 45px;
+    text-align: justify;
+    padding-left: 15px;
+    width: 34.7%;
+}
+
+.menü h1{
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#lottó{
+    background-image: url(../img/hatter.jpg);
+    background-image: url(../img/hatter.jpg);
+    width: 300px;
+    color: white;
+}
+
+
+#kör{
+    width: 200px;
+    margin: auto;
+    margin-left: 50px;
+    margin-top: 84px;
+    margin-bottom: 100px;
+    z-index:-1;
+
+}
+
+#lottó h1{
+    margin-top: -230px;
+    font-size: 51px;
+}
+
+
+.top3{
+    float: left;
+    text-align: left;
+    font-size: 40px;
+}
+
+
+
+
+#lottó h1{
+    margin-top: -230px;
+    font-size: 51px;
+    z-index:-1;
+}
+#lottó img{
+    z-index:-1;
+}
+
+#xydb{
+    margin: auto;
+    width: 60%;    
+    padding: 15px;
+    font-size: 25px;
+    margin-top: 1.5%;
+}
+
+#eslő{
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+#második{
+    z-index: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+#harmadik{
+    z-index: 0;
+    height: 80px;
+    max-width: 500px;
+}
+
+.pos1{
+    position: relative;
+    top: 0px;
+    right: 44px;
+    height: 100%;
+    margin: auto;
+    padding-top: 0;
+}
+
+.pos2{
+    position: relative;
+    top: -1px;
+    right: 44px;
+    height: 100%;
+    margin: auto;
+    padding-top: 0;
+}
+
+.pos3{
+    position: relative;
+    top: 0px;
+    right: 48px;
+    height: 100%;
+    margin: auto;
+    padding-top: 0;
+}
